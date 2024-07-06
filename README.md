@@ -2,6 +2,7 @@ FraxtaL3aderboard is an innovative L3 appchain designed to revolutionize the way
 
 | FraxtaL3aderboard | Information | 
 | :------ | :------ | 
+| BUIDL | https://dorahacks.io/buidl/13989 |
 | Demo | https://n-o.one/FraxtaL3aderboard |
 | Source Code | https://github.com/01-1/FraxtaL3aderboard |
 | Demo Source | https://github.com/01-1/6144 |
